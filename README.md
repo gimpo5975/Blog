@@ -5,14 +5,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-# Blog
 
-<div align="center">
-  <img src="images/preview.png" width="400px"/> <br/>
-  <a href="https://youtu.be/JqRwpeS2NJQ" target="_blank">https://youtu.be/JqRwpeS2NJQ</a>
-</div>
-
-<br/><br/>
 
 
 
@@ -32,7 +25,7 @@
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/salutJuillet/blog.git
+   git clone https://github.com/gimpo5975/blog.git
    ```
 2. Open file index.html
    
@@ -68,10 +61,10 @@ Don't forget to give the project a star! Thanks again!
 <!-- CONTACT -->
 ## Contact
 
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg#gh-light-mode-only" alt="Gmail" align=left width=24 height=24><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg#gh-dark-mode-only" alt="Gmail" align=left width=20 height=20> salut.juilllet@gmail.com
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg#gh-light-mode-only" alt="Gmail" align=left width=24 height=24><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg#gh-dark-mode-only" alt="Gmail" align=left width=20 height=20> gimpo5975@gmail.com
 
 
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg#gh-light-mode-only" alt="gitHub" align=left width=24 height=24><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg#gh-dark-mode-only" alt="gitHub" align=left width=20 height=20> [https://github.com/salutJuillet](https://github.com/salutJuillet)
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg#gh-light-mode-only" alt="gitHub" align=left width=24 height=24><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg#gh-dark-mode-only" alt="gitHub" align=left width=20 height=20> [https://github.com/gimpo5975](https://github.com/gimpo5975)
 
 
 
